@@ -6,8 +6,8 @@ if parent_path not in sys.path:
 
 
 from models.Openai import OpenaiAPI
-# from ChatGLM import ChatGLMAPI
-# from Moss_Local import MossAPI
+#from ChatGLM import ChatGLMAPI
+#from Moss_Local import MossAPI
 from bench_function import get_api_key, export_distribute_json, export_union_json
 import os
 import json

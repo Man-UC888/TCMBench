@@ -24,7 +24,7 @@ if __name__ == "__main__":
         directory = "data"
         # get the api_key_list
         openai_api_key = "your key"
-        # openai_api_key_list = get_api_key(, start_num=0, end_num=1)
+        #openai_api_key_list = get_api_key(, start_num=0, end_num=1)
         # moss_api_key_list = [""]
         model_type = "ChatGLM"
         # get the model_name and instantiate model_api
